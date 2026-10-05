@@ -54,7 +54,7 @@ Below is a curated benchmark of leading commercial sales CRM software, ordered b
 
 ## 🔓 Open-Source CRM GitHub Repositories
 
-Self-hosted open-source CRM software empowers organizations with complete data sovereignty, custom extendibility, and zero per-user licensing fees. The list below is sorted by **GitHub Star Count (descending)**.
+Self-hosted open-source CRM software empowers organizations with complete data sovereignty, custom extendibility, and zero per-user licensing fees. The list below is sorted by **GitHub Stars_Count (descending)**.
 
 ### 🌟 Ranked Open-Source CRM Projects
 
@@ -133,7 +133,7 @@ Contributions are welcome! Please follow these guidelines:
 
 1. 🍴 **Fork** this repository.
 2. 📝 Add or update entries in `README.md` following the table or list formats above.
-3. 📌 Ensure all descriptions remain objective, link directly to official sites or repository stargazers, and include verified pricing or star counts.
+3. 📌 Ensure all descriptions remain objective, link directly to official sites or repository stargazers, and include verified pricing or Stars_Counts.
 4. 🚀 Submit a **Pull Request** detailing your changes.
 
 Check out our main awesome list directory: [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
